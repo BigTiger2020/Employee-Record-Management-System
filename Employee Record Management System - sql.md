@@ -6,5 +6,8 @@
 
 * Version: 1.2   
 
-* Vulnerability proof    
-![image]()  
+* Vulnerable file and Vulnerability proof :   
+![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/sql-1.png)    
+ editempeducation.php file
+![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/sql-2.png)  
+ Vulnerability proof
