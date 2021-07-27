@@ -1,4 +1,4 @@
-* Exploit Title: Alumni Management System 1.0 - 'id' Sql Injection  
+* Exploit Title: Employee Record Management System 1.2 - 'FirstName' Sql Injection  
 
 * Vendor Homepage: https://phpgurukul.com/employee-record-management-system-in-php-and-mysql/  
 
@@ -10,4 +10,4 @@
 ![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/editempprofile.php.png)  
 
 * Sql Injection   
-![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/sql.php.png)  
+![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/sql.png)  
