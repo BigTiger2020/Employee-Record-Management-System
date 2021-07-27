@@ -6,5 +6,6 @@
 
 * Version: 1.2   
 
-* Vulnerability proof    
-![image]()  
+* Vulnerability proof ：   
+![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/xss-1.png)    
+![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/xss-2.png)
