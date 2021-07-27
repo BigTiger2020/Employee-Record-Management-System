@@ -7,7 +7,7 @@
 * Version: 1.2   
 
 * Vulnerable file:editempprofile.php    
-![image]()  
+![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/editempprofile.php.png)  
 
 * Sql Injection   
-![image]()  
+![image](https://github.com/BigTiger2020/Employee-Record-Management-System/blob/main/sql.php.png)  
